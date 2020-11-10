@@ -14,7 +14,7 @@ setup(
     " the JavaScript reference implementation for GraphQL.",
     long_description=readme,
     long_description_content_type="text/markdown",
-    keywords="graphql",
+    keywords="graphql3",
     url="https://github.com/graphql-python/graphql-core",
     author="Christoph Zwerschke",
     author_email="cito@online.de",
