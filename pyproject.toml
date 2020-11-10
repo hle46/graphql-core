@@ -23,7 +23,7 @@ classifiers = [
     "Programming Language :: Python :: 3.8"
 ]
 packages = [
-    { include = "graphql", from = "src" },
+    { include = "graphql3", from = "src" },
     { include = "tests", format = "sdist" },
     { include = "docs", format = "sdist" },
 ]
