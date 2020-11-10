@@ -8,7 +8,7 @@ with open("README.md") as readme_file:
     readme = readme_file.read()
 
 setup(
-    name="graphql-core-v3",
+    name="graphql-core3",
     version=version,
     description="GraphQL implementation for Python, a port of GraphQL.js,"
     " the JavaScript reference implementation for GraphQL.",
