@@ -34,7 +34,7 @@ setup(
     packages=find_packages("src"),
     package_dir={"": "src"},
     # PEP-561: https://www.python.org/dev/peps/pep-0561/
-    package_data={"graphql3": ["py.typed"]},
+    package_data={"graphql": ["py.typed"]},
     include_package_data=True,
     zip_safe=False,
 )
