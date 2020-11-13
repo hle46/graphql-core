@@ -31,7 +31,7 @@ setup(
     ],
     install_requires=[],
     python_requires=">=3.6,<4",
-    packages=find_packages("src"),
+    packages=find_packages("src/graphql"),
     package_dir={"": "src"},
     # PEP-561: https://www.python.org/dev/peps/pep-0561/
     package_data={"graphql": ["py.typed"]},
